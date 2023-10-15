@@ -1,8 +1,10 @@
 /* Add screen styles below */
 
 body{
-    background-color: #ffffff;
+    background-color: #fff;
     font-family: Helvetica, sans-serif;
+    border-top: 15px solid #424242;
+    margin: 0;
 }
 
 img{
