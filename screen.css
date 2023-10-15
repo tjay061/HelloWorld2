@@ -1,5 +1,10 @@
 /* Add screen styles below */
 
 body{
-    background-color: #aaa;
+    background-color: #ffffff;
+    font-family: Helvetica, sans-serif;
+}
+
+img{
+    width: 100%;
 }
